@@ -5,24 +5,34 @@
 
             <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                 <div class="resume-content">
-                    <h3 class="mb-0">University of Colorado Boulder</h3>
-                    <div class="subheading mb-3">Bachelor of Science</div>
+                    <h3 class="mb-0">Southeast University</h3>
+                    <div class="subheading mb-3">Bachelor of Computer Science and Engineering</div>
                     <div>Computer Science - Web Development Track</div>
-                    <p>GPA: 3.23</p>
+                    <p>GPA: 3.39 (Scale 4.00)</p>
                 </div>
                 <div class="resume-date text-md-right">
-                    <span class="text-primary">August 2006 - May 2010</span>
+                    <span class="text-primary">2015 - 2019</span>
                 </div>
             </div>
 
             <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
                 <div class="resume-content">
-                    <h3 class="mb-0">James Buchanan High School</h3>
-                    <div class="subheading mb-3">Technology Magnet Program</div>
-                    <p>GPA: 3.56</p>
+                    <h3 class="mb-0">Govt. Ibrahim Khan College</h3>
+                    <div class="subheading mb-3">Science</div>
+                    <p>GPA: 4.40 (Scale 5.00)</p>
                 </div>
                 <div class="resume-date text-md-right">
-                    <span class="text-primary">August 2002 - May 2006</span>
+                    <span class="text-primary">Passing Year:: 2014</span>
+                </div>
+            </div>
+          <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+                <div class="resume-content">
+                    <h3 class="mb-0">Bhuiyanpur Pilot High School</h3>
+                    <div class="subheading mb-3">Science</div>
+                    <p>GPA: 4.81 (Scale 5.00)</p>
+                </div>
+                <div class="resume-date text-md-right">
+                    <span class="text-primary">Passing Year:: 2011</span>
                 </div>
             </div>
 
