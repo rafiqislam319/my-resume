@@ -5,7 +5,7 @@
                 <span class="text-primary">Islam</span>
             </h1>
             <div class="subheading mb-5">Address: Sec#11; Uttara; Dhaka-1230;
-              <p style="color:magenta; text-transform:lowercase;">E-mail: rafiqislam319@gmail.com</p>
+              <p style="color:coral; text-transform:lowercase;">E-mail: rafiqislam319@gmail.com</p>
             </div>
             <p class="lead mb-5">I like challenging work environment  where I can utilize my expertise in technical skills, towards the development and implementation of the new ideas, contributing to growth of the organization.</p>
             <div class="social-icons">
